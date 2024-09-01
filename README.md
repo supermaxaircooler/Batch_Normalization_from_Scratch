@@ -4,4 +4,4 @@ Having a good optimization algorithm for your model can be the difference betwee
 
 # to add in the future
 
-1. moving average for mean and variance 
+1. moving average for mean and variance  -  ✅
